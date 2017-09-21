@@ -1,0 +1,7 @@
+*.CSV
+*.csv
+setup_notes.txt
+.ipynb_checkpoints/
+*.pdf
+*.PDF
+*.p

@@ -1,0 +1,1 @@
+global path was set to c:\python27 and c:\python27/scripts before at top.  react-native was working, no other change.
